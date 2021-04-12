@@ -23,7 +23,7 @@ Urban city types perform even better than both rural and suburban city types;
 This might perhaps be due to the size of the market/population in urban city types or not, in any case a further analysis of the market size is required
 
 - ![PyBer_Data_Summary](https://github.com/Omodayo/PyBer_Analysis/blob/main/analysis/PyBer_data_Summary.png)
-- ![PyBer_Fare_Summary](https://github.com/Omodayo/PyBer_Analysis/blob/main/analysis/PyBer_data_Summary.png)
+- ![PyBer_Fare_Summary](https://github.com/Omodayo/PyBer_Analysis/blob/main/analysis/PyBer_Fare_summary.png)
 
 ## Analysis Summarry
 There is clearly a correlation, as shown by the analysis result between number of drives, total rides provided, fare per ride and per driver and the total fare generated which clearly shows the disparities among all three city types.
